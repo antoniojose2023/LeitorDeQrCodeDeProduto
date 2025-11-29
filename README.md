@@ -29,7 +29,6 @@ Diferente de leitores simples, este projeto integra o **Jetpack Room**, permitin
 |:---:|:---:|:---:|
 | ![Home](https://via.placeholder.com/200x400?text=Home) | ![Scanner](https://via.placeholder.com/200x400?text=Scanner) | ![Historico](https://via.placeholder.com/200x400?text=List) |
 
-*(Dica: Substitua os links acima por prints reais do seu aplicativo para valorizar o portfólio)*
 
 ## 🛠️ Tecnologias Utilizadas
 
